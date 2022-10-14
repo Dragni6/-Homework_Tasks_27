@@ -1,0 +1,15 @@
+C:\geekbrains\C#\Homework_Tasks_27\bin\Debug\net6.0\Homework_Tasks_27.exe
+C:\geekbrains\C#\Homework_Tasks_27\bin\Debug\net6.0\Homework_Tasks_27.deps.json
+C:\geekbrains\C#\Homework_Tasks_27\bin\Debug\net6.0\Homework_Tasks_27.runtimeconfig.json
+C:\geekbrains\C#\Homework_Tasks_27\bin\Debug\net6.0\Homework_Tasks_27.dll
+C:\geekbrains\C#\Homework_Tasks_27\bin\Debug\net6.0\Homework_Tasks_27.pdb
+C:\geekbrains\C#\Homework_Tasks_27\obj\Debug\net6.0\Homework_Tasks_27.csproj.AssemblyReference.cache
+C:\geekbrains\C#\Homework_Tasks_27\obj\Debug\net6.0\Homework_Tasks_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\geekbrains\C#\Homework_Tasks_27\obj\Debug\net6.0\Homework_Tasks_27.AssemblyInfoInputs.cache
+C:\geekbrains\C#\Homework_Tasks_27\obj\Debug\net6.0\Homework_Tasks_27.AssemblyInfo.cs
+C:\geekbrains\C#\Homework_Tasks_27\obj\Debug\net6.0\Homework_Tasks_27.csproj.CoreCompileInputs.cache
+C:\geekbrains\C#\Homework_Tasks_27\obj\Debug\net6.0\Homework_Tasks_27.dll
+C:\geekbrains\C#\Homework_Tasks_27\obj\Debug\net6.0\refint\Homework_Tasks_27.dll
+C:\geekbrains\C#\Homework_Tasks_27\obj\Debug\net6.0\Homework_Tasks_27.pdb
+C:\geekbrains\C#\Homework_Tasks_27\obj\Debug\net6.0\Homework_Tasks_27.genruntimeconfig.cache
+C:\geekbrains\C#\Homework_Tasks_27\obj\Debug\net6.0\ref\Homework_Tasks_27.dll
